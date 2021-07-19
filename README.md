@@ -1,3 +1,4 @@
+[exercícios-sequenciais.pdf](https://github.com/cas-y/Algoritmos-I/files/6844379/exercicios-sequenciais.pdf)
 # Algoritmos-I
 Repositório para os exercícios de Algoritmos I da matéria de Algoritmos I do curso de Ciência da Computação do IFSUL Passo Fundo
 
